@@ -4,7 +4,7 @@ const convite = {
 
     idade: "19",
 
-    data: "08 de Agosto",
+    data: "10 de Agosto",
 
     horario: "19h30",
 
@@ -53,8 +53,8 @@ const convite = {
 
     ],
     pix:{
-        chave: "13974205529",
-        tipo: "Telefone",
+        chave: "gisellygomessilvag@gmail.com",
+        tipo: "gmail",
         nome: "Giselly Gomes",
         qr:"assets/img/qrcode.jpeg"
 },
@@ -67,9 +67,9 @@ const convite = {
  },
 
      mapa:{
-            iframe:"https://www.google.com/maps?q=Guaruj%C3%A1+SP&output=embed",
+            iframe:"https://share.google/uoOHj98BfYhnfrZ29",
 
-            link:"https://maps.google.com/?q=Guaruj%C3%A1+SP"
+            link:"https://www.google.com/maps/place/Churrascaria+Fog%C3%A3o+ga%C3%BAcho/@-23.9918444,-46.2835217,17z/data=!3m1!4b1!4m6!3m5!1s0x94ce010023eda8bf:0x2b2d02a4eb32bd3b!8m2!3d-23.9918444!4d-46.2809468!16s%2Fg%2F11z2k1qy90?hl=pt-BR&entry=ttu&g_ep=EgoyMDI2MDcyNi4wIKXMDSoASAFQAw%3D%3D"
 }
 
 };
