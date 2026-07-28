@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+   
+<link rel="stylesheet" href="css/style.css">
+
+<link rel="icon" type="img/png" href="assets/icon/icon.png"
+
+    <title>convite | Aniversário da Gigi</title>
+
+    <meta name="description" content="Você está convidado para comemorar o aniversário da Giselly Gomes! ❤️">
+
+<meta property="og:title" content="🎉 Aniversário da Giselly">
+
+<meta property="og:description" content="Sua presença tornará esse dia ainda mais especial.">
+
+<meta property="og:image" content="assets/img/gato.png">
+
+<meta property="og:type" content="website">
+</head>
+<body>
+
+    <header class="hero">
+
+        <div class="overlay"></div>
+
+        <div class="hero-content">
+
+            <p class="convite">
+                Você recebeu um convite especial 
+            </p>
+
+            <h1 id="nome"></h1>
+
+            <h2>
+                <span id="idade"></span> anos
+            </h2>
+
+            <button id="abrirConvite">
+                Abrir Convite
+            </button>
+                    
+            <div class="contador">
+
+                <div class="tempo">
+                    <span id="dias">00</span>
+                    <p>Dias</p>
+                </div>
+
+                <div class="tempo">
+                    <span id="horas">00</span>
+                    <p>Horas</p>
+                </div>
+
+                <div class="tempo">
+                    <span id="minutos">00</span>
+                    <p>Minutos</p>
+                </div>
+
+                <div class="tempo">
+                    <span id="segundos">00</span>
+                    <p>Segundos</p>
+                </div>
+                
+            </div>
+
+        </div>
+
+    </header>
+
+    <main>
+
+        <section id="informacoes" class="revelar">
+
+              <h2>Informações</h2>
+              
+
+    <div class="cards">
+
+        <div class="card">
+            <h3> Data</h3>
+            <p id="data"></p>
+        </div>
+
+        <div class="card">
+            <h3> Horário</h3>
+            <p id="horario"></p>
+        </div>
+
+        <div class="card">
+            <h3> Local</h3>
+            <p id="local"></p>
+        </div>
+
+    </div>
+        </section>
+
+        <section id="presentes" class="revelar">
+            <h2 class="titulo">Sugestões de Presentes</h2>
+
+            <div id="ListadePresentes" class="cards"></div>
+        </section>
+
+       <section id="pix" class="revelar">
+    <h2 class="titulo">Contribuição via PIX</h2>
+
+    <div class="card">
+
+        <p class="texto-pix">
+            Sua presença já é um presente!
+            <br><br>
+            Mas, caso queira contribuir de outra forma,
+            você pode utilizar a chave PIX abaixo.
+        </p>
+        <img id="qrPix" class="qr-pix" src="" alt="QR code PIX">
+
+        <h3 id="tipoPix"></h3>
+
+        <p id="chavePix" class="chave-pix"></p>
+
+        <button id="copiarPix">
+             Copiar chave PIX
+        </button>
+
+    </div>
+
+</section>]
+
+<section id="mapa">
+    <h2 class="titulo">Como chegar</h2>
+
+    <div class="card">
+
+        <iframe
+        id="mapaLocal"
+        src=""
+        width="100%"
+        height="350"
+        style="border: 0; border-radius: 15px;"
+        allowfullscreen=""
+        loading="lazy"
+    ></iframe>
+
+    <br><br>
+
+    <button id="abrirMapa">
+        abrir no googlemaps
+    </button>
+
+    </div>
+
+</section>
+
+        <section id="confirmacao" class="revelar">
+
+            <h2 class="titulo">
+                Confirmar presença
+            </h2>
+
+            <div class="card">
+
+                <p> 
+                    Ficaremos muitos felizes com a sua presença.
+                    Clique no botão abaixo para confirmar.
+                </p>
+
+                <button id="confirmarWhatsapp">
+                    confirmar presença
+                </button>
+            </div>
+        </section>
+
+        <footer>
+
+    <p>
+        Desenvolvido para celebrar um momento especial.
+    </p>
+
+    <p class="creditos">
+
+        Desenvolvido por
+
+        <a href="https://github.com/SEUUSUARIO" target="_blank">
+            João Pedro
+        </a>
+
+    </p>
+
+</footer>
+
+        
+    </main>
+
+    <button id="voltarTopo">↑</button>
+
+    <script src="js/config.js"></script>
+    <script src="js/script.js"></script>
+
+</body>
+</html>
