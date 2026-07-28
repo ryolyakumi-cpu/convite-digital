@@ -8,7 +8,8 @@ const convite = {
 
     horario: "19h30",
 
-    local: "A definir",
+    local: "Churrascaria Fogão gaúcho",
+
 
     endereco: "",
 
