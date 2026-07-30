@@ -637,3 +637,37 @@ footer p{
 
 }
 
+@media (max-width: 768px){
+
+    h1{
+        font-size:42px;
+    }
+
+    h2{
+        font-size:24px;
+    }
+
+    .cards{
+        flex-direction:column;
+        align-items:center;
+    }
+
+    .card{
+        width:90%;
+    }
+
+    button{
+        width:90%;
+    }
+
+    .contador{
+        flex-wrap:wrap;
+        gap:15px;
+    }
+
+    .tempo{
+        width:80px;
+    }
+
+}
+
