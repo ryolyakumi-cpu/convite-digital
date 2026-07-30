@@ -24,7 +24,7 @@ const convite = {
         },
 
         {
-            nome: "Calça Cargo Cinza Black Marmo tamanho (42)",
+            nome: "Calça Cargo Cinza Black Marmo - tamanho (42)",
             imagem: "assets/img/calça2.jpg",
             link: "https://shopee.com.br/product/1338539055/22093525892?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAM_NxfHGgeczprZR4Q8tPoOfvwhbtN63JlB369xGJA1mbqBWuW2sVWxQjSJT_xT_mbG0_W5kumedB_GGTjqmNpcGhlcnRleHTEmQAAAAyCGYIyvoWWY_hg_hFB5zDMKclc58TmQrjfaH3YRGLncufbooN0tI7fqh9hi-Xbpq09D9N-ervOfS0i_iZo6_KZgMQZ5gW5Pb1KgeLhwmIyAX3V7XlkWzxUECJG92kQwNS3Bsg8Cn37wAFTPP4AfVxCYfFPKzPVlH615WmQkCuOykuTgaNzGxkKJjPURM09ZDosHTORjA&mmp_pid=an_18339390053&uls_trackid=567v7ddc01kj&utm_campaign=id_d8a2139b718fcbff&utm_content=----&utm_medium=affiliates&utm_source=an_18339390053&utm_term=fa6b6ygq833u"
         },
@@ -37,19 +37,30 @@ const convite = {
         },
 
         { 
-            nome:"Casaco cardigã tamanho (G)",
+            nome:"Casaco cardigã - tamanho (G)",
             imagem:"assets/img/cardigã.jpg",
             link:"https://shopee.com.br/product/1650307919/58209466798?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAM_NxfHGgeczprZR4Q8tPoOfvwhbtN63JlB369xGJA1mbqBWuW2sVWxQjSJT_xT_mbG0_W5kumedB_GGTjqmNpcGhlcnRleHTEmQAAAAwxAH_J8oAdKZZcVpBzcIoXeSqDX2CvCEBF-ltqc1lvgMVBjfLEZl0GEg2eSqye7spjhCxowhdKhxaJEvmmV06_a2VlH1u-gxKCwrVN6873oz-akT7cNKWz1S6u5w8qlRAUYe3d4XIXkm46pbjkoWCN6o2mp-xlfLRbNVWbCacAks3io0_bfHaiMvXUg7Al7a34KDtqrw&mmp_pid=an_18339390053&uls_trackid=5683qik6003i&utm_campaign=id_84a373fee30d42f8&utm_content=----&utm_medium=affiliates&utm_source=an_18339390053&utm_term=fa9nft51oou1",
 
         },
 
         {
-            nome:"Tênis LNYZ tamanho(38)",
+            nome:"Tênis LNYZ - tamanho (38)",
             imagem:"assets/img/Tenis.png",
             link:"https://shop.tiktok.com/br/pdp/1735135155756238176?_d=eid30mc6lj8lj7&_svg=1&checksum=c2f35e509e5ca3d9636941b65787a54567f4a1ea1c2e095ecb67860699389af6&encode_params=MIIBUwQMp9S8GdOOEe10jmZ4BIIBLzlCo74IwSdYPXpQWyC-6jfy_mHSwdrTBQg-UGdnKJKksqEkaLUDLJHJLWW7_vlBuqbNb43K2av76W8wzFfZtwmMFev6J91b9BItYVt2JoXp7dHtfWcNrxOX9tb04QE-rK2RVbf3Zu5EVhWpt2LEqUW0cZH8PzsKCZvyIyGz6lTNXi5dnBmLUI7wP6kCaOQzVj1zARY4RhpTggTyJYIp9NCZB6GCzIrOUyPhZpHur1CZiq5OFf-aDgmLp5LLdrxUIfP3cWwYHIxhxu_i6S7_4hN80J6xi0n8kgquPW5KYNrDZAAu7P_nh9qYG9Xcy_cTqFuxdXB4jeeXFZnb0j2DvZvq8FyhHbE3teCN9oW9PIeiSrsYWqc68CIxDH658omtgb7p999HkBQVAsuDPJ-XRAQQ0yPL2Q44R_dOeSsoBPlYSw%3D%3D&og_info=%7B%22title%22%3A%22T%C3%AAnis+LNYZ+PowerFit+Esportivo+Feminino+Para+Academia+Treino+Caminhada+Leve%22%2C%22image%22%3A%22https%3A%5C%2F%5C%2Fp16-oec-sg.ibyteimg.com%5C%2Ftos-alisg-i-aphluv4xwc-sg%5C%2F322922f27ec9494485d3fc21be862ab4~tplv-aphluv4xwc-resize-png%3A630%3A630.png%3Fdr%3D15580%26t%3D555f072d%26ps%3D933b5bde%26shp%3D7745054a%26shcp%3D9b759fb9%26idc%3Dmy%26from%3D2001012042%22%7D&sec_user_id=MS4wLjABAAAAULcmQcq5QoOz9q5CoKxP8QJ1Bdb_0qLw7iTiE0iUX9RIH6r6KAv98z05HwWkYMDN&share_app_id=1233&share_iid=7664199324935407368&share_link_id=5327df91-0dba-4c09-b921-512124ad1a41&share_region=BR&social_share_type=15&timestamp=1785089590&trackParams=%7B%22traffic_source_list%22%3A%5B6%2C2%5D%2C%22enable_shop_tab_popup%22%3A1%2C%22device_id%22%3A%227463484878001817089%22%7D&u_code=dkjjf5726jk94f&ug_btm=b3190%2Cb2878&ugbiz_name=UNKNOWN&unique_id=say.xceety&user_id=7009683115946787845&utm_campaign=client_share&utm_medium=android&utm_source=copy",
 
-        }
+        },
 
+        {
+            nome:"Suéter de Tricô Ombro a Ombro Mousse Quentinho - Suéter Dublin",
+            imagem:"assets/img/Suéter.png",
+            link:"https://shop.tiktok.com/br/pdp/1735294584030594554?_d=eid30mc6lj8lj7&_svg=1&checksum=7f371e2cc57b1a926697ca7cf300fbab356693e9310a57ee71effdc891b0f9d5&encode_params=MIIBUwQMoP7AzfqgsgJKX7BIBIIBL4THvCTuv9omYP6WevVPQphs25v6p-Qus6M8qf6mqjLiVMdzV-4WO0McWdpfVO4XQAliKcWJTxBVLNRxxrj3k4EkPWiT1zRbk3Ni5OLESrIZ1FDAE2Pyu_0M6dzal9RVIVsDn9GygpoPWsvrZs0yqTlmchP-w-Y2okeVz1lsUN9NT_t1xXJMQ8hQWt-U6U7oVIpT-BQzzCr8jUwe34ioBGVrRoE6iJTFcP-D_bIy8W292_NMI6JLoNTxElfEI7_US4bYB-kHH2FNZeVnmkg5BwU3k02-eLfArTxO1TA-FyODpWT_WeCTsQUJkNCYDlFNp3hO0cf-0vbV0riOPWTXcVdrWNXpBQnFf00rTKJxCudFBxT_5Y0dunVn4ynOot_rdo2zkbs6TC2jKrzeJV0uKgQQ0beJUygaujTssLnTIsXsPg%3D%3D&og_info=%7B%22title%22%3A%22Su%C3%A9ter+de+Tric%C3%B4+Ombro+a+Ombro+Mousse+Quentinho+-+Su%C3%A9ter+Dublin%22%2C%22image%22%3A%22https%3A%5C%2F%5C%2Fp16-oec-sg.ibyteimg.com%5C%2Ftos-alisg-i-aphluv4xwc-sg%5C%2F1af43161ee6e4eb29e000d503bf997fb~tplv-aphluv4xwc-resize-png%3A630%3A630.png%3Fdr%3D15580%26t%3D555f072d%26ps%3D933b5bde%26shp%3D7745054a%26shcp%3D9b759fb9%26idc%3Dmy%26from%3D2001012042%22%7D&sec_user_id=MS4wLjABAAAAULcmQcq5QoOz9q5CoKxP8QJ1Bdb_0qLw7iTiE0iUX9RIH6r6KAv98z05HwWkYMDN&share_app_id=1233&share_iid=7664199324935407368&share_link_id=a8e818f5-c225-49f1-a105-268e82a50738&share_region=BR&social_share_type=15&timestamp=1785089447&trackParams=%7B%22traffic_source_list%22%3A%5B6%5D%2C%22traffic_source%22%3A6%2C%22enable_shop_tab_popup%22%3A1%2C%22device_id%22%3A%227463484878001817089%22%7D&u_code=dkjjf5726jk94f&ug_btm=b6661%2Cb6661&ugbiz_name=UNKNOWN&unique_id=say.xceety&user_id=7009683115946787845&utm_campaign=client_share&utm_medium=android&utm_source=copy"
+        },
+
+        {
+            nome:"Conjunto Feminino Listrado Amarelo - tamanho (G)",
+            imagem:"assets/img/conjunto.png",
+            link:"https://shop.tiktok.com/br/pdp/1736036710786303007?_d=eid30mc6lj8lj7&_svg=1&checksum=91151bafae16c5c51dd3d8bee66077bf0c06a0749d288698dda4bcf92ccc5eed&encode_params=MIIBUwQMWfM-M3cYDQhuct0TBIIBL8IWbZvAMVNG3_PDbEAxoB29ABl7ZT2GGrpQxFE-DA_cOIk-B2rzI28JuK9bTuKpvvnF3mifprTFRmis232yrZx0M5w-f9PhbQCGddp0Rzb86jzAOHSvvLki8uYiBFbZX6qe-MXax2M1F_Yoztc5bfb0MNKO7a7bo_yNR2M3YGQY_apbN_-Pky0aZ4-TXbh_mCLmD0lciOTVEIU85TzzwEL59RmwhFG4AbLRh5rDDis2sIpRxGqyRil8V_-oDjui8TPsjOP1GDm9foVmR-E8qrBY3nc-6jRMh9UQN9GIWIZ_0P7rL5VXr_Tcegbbp9y3Ol0XtM6y7EHO3DvKEgHctJt7WAdcdUFFzEskn6ml0x5A_VR1n6w-lpjj1ddPKLNmo-cmKqLCpfeZUqfFd41K0AQQfyNHNAc6yZyepaVTqtKh4w%3D%3D&og_info=%7B%22title%22%3A%22Conjunto+Feminino+Listrado+Bege+%7C+Blusa+com+Amarra%C3%A7%C3%A3o+%2B+Cal%C3%A7a+Pantalona+Wide+Leg%22%2C%22image%22%3A%22https%3A%5C%2F%5C%2Fp16-oec-sg.ibyteimg.com%5C%2Ftos-alisg-i-aphluv4xwc-sg%5C%2F720ddc9a1a9d4564b43a79df93c30618~tplv-aphluv4xwc-resize-png%3A630%3A630.png%3Fdr%3D15580%26t%3D555f072d%26ps%3D933b5bde%26shp%3D7745054a%26shcp%3D9b759fb9%26idc%3Dmy%26from%3D2001012042%22%7D&sec_user_id=MS4wLjABAAAAULcmQcq5QoOz9q5CoKxP8QJ1Bdb_0qLw7iTiE0iUX9RIH6r6KAv98z05HwWkYMDN&share_app_id=1233&share_iid=7664199324935407368&share_link_id=e5419124-9195-4a93-87b5-e1e593a23f36&share_region=BR&social_share_type=15&timestamp=1785089261&trackParams=%7B%22traffic_source_list%22%3A%5B6%5D%2C%22traffic_source%22%3A6%2C%22enable_shop_tab_popup%22%3A1%2C%22device_id%22%3A%227463484878001817089%22%7D&u_code=dkjjf5726jk94f&ug_btm=b6661%2Cb6661&ugbiz_name=UNKNOWN&unique_id=say.xceety&user_id=7009683115946787845&utm_campaign=client_share&utm_medium=android&utm_source=copy"
+        }
         // ...os outros presentes
 
     ],
