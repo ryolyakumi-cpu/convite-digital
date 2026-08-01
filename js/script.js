@@ -18,29 +18,6 @@ botao.addEventListener("click", () => {
     });
 });
 
-const lista = document.getElementById("ListadePresentes");
-
-convite.presentes.forEach(presente =>{
-    lista.innerHTML += `
-    
-     <div class="card">
-
-        <img src="${presente.imagem}" alt="${presente.nome}" class="img-presente">
-
-        <h3>${presente.nome}</h3>
-
-        <a href="${presente.link}" target="_blank">
-        
-            <button class="btn-presente">
-
-                Ver produto
-            </button>
-        </a>
-    </div>
-    `;
-
-});
-
 const botaoPix = document.getElementById("copiarPix");
 
 botaoPix.addEventListener("click", () => {

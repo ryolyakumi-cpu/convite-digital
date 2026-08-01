@@ -30,7 +30,7 @@ const convite = {
         },
 
         {
-            nome:"Headfone",
+            nome:"Headphone",
             imagem:"assets/img/headfone.jpg",
             link:"https://shopee.com.br/product/1762161450/22494876481?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAM_NxfHGgeczprZR4Q8tPoOfvwhbtN63JlB369xGJA1mbqBWuW2sVWxQjSJT_xT_mbG0_W5kumedB_GGTjqmNpcGhlcnRleHTEmQAAAAwEOCm_jPHdDN3jWAeLwd8zXd77_VQq5-JYsmT1xI3zvQ7aLcI_L8QM8GTbKR08nEtKhhyLA_mTceasjKhkcnuEqRDIRn0IMJIHUgC99oF14zwSxQfHwApwdizL74pkCC2hLrMJPfmVabM45tUHdU--ENHnretui_Lcwm4cGQJGQRR4mojmeLP9iGpLDBj1rcnFRsGsjQ&mmp_pid=an_18339390053&uls_trackid=5683q0v2013j&utm_campaign=id_f1424074bbe1a7ef&utm_content=----&utm_medium=affiliates&utm_source=an_18339390053&utm_term=fa9n1d4s1tgo",
 
